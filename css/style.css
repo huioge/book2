@@ -869,7 +869,7 @@
 }
 
 .ly-box21 {
-	width: 15%;
+	width: 35%;
 	height: 600px;
 	border: 2px #CCC;
 	background-color: #fff;
@@ -955,7 +955,7 @@
 
 .ly-txt22 {
 	font-family: Microsoft YaHei;
-	font-size: 13px;
+	font-size: 16px;
 	text-indent:2em;
 	font-color: #000;
 	position: absolute;
@@ -971,14 +971,14 @@
 }
 
 .ly-box22 {
-	width: 15%;
+	width: 35%;
 	height: 510px;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
 	border-radius: 8px;
 	position: absolute;
-	left: 42%;
+	left: 62%;
 	top:22%;
 	overflow: hidden;
 	opacity: 0;
@@ -1002,7 +1002,7 @@
 	border-radius: 2px; 
 	margin-left: 24px;
 	position: absolute;
-	right: 58%;
+	right: 43%;
 	top: 25%;
 	opacity: 0;
 	-webkit-transform: scale(0.5, 0.5);
@@ -1103,7 +1103,7 @@
 	border-radius: 2px; 
 	margin-left: 24px;
 	position: absolute;
-	right: 39%;
+	right: 20%;
 	top: 66%;
 	opacity: 0;
 	-webkit-transform: scale(0.5, 0.5);
