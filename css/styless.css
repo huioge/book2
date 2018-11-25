@@ -241,12 +241,12 @@ body {
 .button-style1 {
 	position:absolute;
 	left:20%;
-	animation:btn1 35s;
+	animation:btn1 20s;
 }
 .button-style2 {
 	position:absolute;
 	left:68%;
-	animation:btn2 35s;
+	animation:btn2 20s;
 }
 @keyframes btn1 {
 	0% {

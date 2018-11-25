@@ -14,8 +14,8 @@
 			<h1>❤</h1>
 			
 			<form class="form">
-				<input id="userName" name="userName" type="text" placeholder="🙅‍">
-				<input id="pwd" name="pwd" type="password" placeholder="🈲">
+				<input id="userName" name="userName" type="text" placeholder="亲爱的宝贝‍">
+				<input id="pwd" name="pwd" type="password" placeholder="********">
 				<button type="submit" id="login-button">进入</button>
 			</form>
 		</div>
@@ -40,7 +40,7 @@
 	$('#login-button').click(function (event) {
 		var userName=document.getElementById("userName").value;  
 	    var pwd=document.getElementById("pwd").value;
-	    if(userName=="nombre" &&  pwd=="08171998"){ 
+	    if(userName=="" &&  pwd==""){ 
 			event.preventDefault();
 			$('form').fadeOut(500);
 			$('.wrapper').addClass('form-success');
